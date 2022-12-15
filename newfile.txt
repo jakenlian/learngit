@@ -1,7 +1,0 @@
-jakenlian
-this is a test of vi
-what's vi?
-it'a an editor on linux
-ok
-let's go!
-
